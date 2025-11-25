@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://i.imgur.com/2r7FJ71.jpeg" alt="Vaibhav Deep Singh — Cybersecurity" width="900">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&background=F5FF0000&width=435&lines=Hi%2C+I+Am+Vaibhav+Deep+Singh;Welcome+to+My+World!!" alt="Typing SVG" /></a>
 
-
-# 💀 Vaibhav Deep Singh — Cybersecurity Enthusiast
-
-**SOC Analyst Intern | Threat Hunter | Bug Bounty Researcher**
+**SOC Analyst | Threat Hunter | Bug Bounty Researcher**
 
 ### 👋 Hi there!
 
