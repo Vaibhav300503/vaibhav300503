@@ -1,8 +1,7 @@
-Below is a polished, modern, eye-catching **GitHub Profile README.md** for you, fully based on your **resume**  and your GitHub profile style.
+<p align="center">
+  <img src="https://i.imgur.com/2r7FJ71.jpeg" alt="Vaibhav Deep Singh — Cybersecurity" width="900">
+</p>
 
-You can copy-paste this into a new repo named **`Vaibhav300503`** with a `README.md` file to make it show on your GitHub profile.
-
----
 
 # 💀 Vaibhav Deep Singh — Cybersecurity Enthusiast
 
