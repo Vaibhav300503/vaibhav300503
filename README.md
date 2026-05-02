@@ -16,106 +16,273 @@
   </a>
 </p>
 
-
-<h3 align="center">Cybersecurity | SOC Analyst | Threat Hunter | Bug Bounty Researcher</h3>
+<h3 align="center">SOC Analyst | Detection Engineer | Threat Hunter | Bug Bounty Researcher</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C22541&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;SOC+Analyst;Blue+Team+%7C+Offensive+Security;Bug+Bounty+Hunter;Threat+Hunter+%7C+Python+Automation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=SOC+Analyst+%7C+Detection+Engineer;50%2B+Vulnerabilities+Disclosed;500%2B+Daily+Alerts+Triaged;Building+Resilient+Detections;Hunting+Threats+%26+Breaking+Things+Ethically" alt="Typing Animation" />
 </p>
-### 👋 Hi there!
 
-I’m a cybersecurity enthusiast passionate about **Blue Team operations**, **offensive security**, and **real-world threat analysis**.
-Currently working as a **SOC Analyst Intern at CyArt**, while actively hunting bugs, solving CTFs, and building security tools.
+### 👋 About Me
+
+I'm a **SOC Analyst & Detection Engineer** focused on building high-signal alerting, hunting modern adversary TTPs, and turning real intrusions into reusable detection content. I've spent the last year triaging hundreds of daily alerts, tuning Sigma rules across Splunk and Wazuh, and disclosing **50+ vulnerabilities** through independent bug bounty work.
 
 ```bash
-> cybersecurity_enthusiast --profile
+> whoami --profile
 
-🛡️ SOC Analyst Intern → CyArt
-
-🎯 Bug Hunter with 50+ reported valid vulnerabilities
-
-⚡ Focus Areas: SIEM, Threat Hunting, IR, Web Exploitation
-
-🐍 Python automation for recon & exploit dev
-
-🎮 CTF solver • Log analyst • Malware triage learner
+🛡️ SOC Analyst & Detection Engineer
+🏢 Ex-SOC Analyst Intern @ CyArt Security (Aug 2025 — Feb 2026)
+🎯 Independent Security Researcher — 50+ validated vulnerabilities
+⚡ Focus: SIEM, Detection Engineering, Threat Hunting, Incident Response
+🐍 Python automation for recon, detection & security tooling
+🏆 Hackathon Winner — SunHacks 2025, Spardha 25
+🎮 TryHackMe — Top 4% Global | Level 10 [HACKER]
+🎓 B.Sc. Computer Science — Sage University, Indore (CGPA: 8.0)
+📍 India · Open to Relocation
 ```
 
-<h2 align="center">🔥 Skills Matrix</h2>
-<p></p>
+---
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-  </div>
-</div>
-<p></p>
+<h2 align="center">📊 Operational Impact</h2>
 
-<h2 align="center">🛡️ Blue Team</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vulns_Disclosed-50+-A855F7?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/Daily_Alerts_Triaged-500+-A855F7?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/False_Positive_Reduction-30%25-A855F7?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top_7%25-A855F7?style=for-the-badge&color=1a1a2e" />
+</p>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" />
-      <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&color=000000" />
-      <img src="https://img.shields.io/badge/Wazuh-7325F2?style=for-the-badge&logo=wazuh&color=000000" />
-      <img src="https://img.shields.io/badge/Incident_Response-FF0000?style=for-the-badge&logo=security&color=000000" />
-      <img src="https://img.shields.io/badge/Threat_Hunting-00FF9F?style=for-the-badge&logo=apachespark&color=000000" />
-      <img src="https://img.shields.io/badge/Log_Analysis-0088FF?style=for-the-badge&logo=elasticsearch&color=000000" />
+---
 
-  </div>
-</div>
-<h2 align="center">🗡️ Offensive Security</h2>
+<h2 align="center">💼 Experience</h2>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Bug_Bounty-FF8800?style=for-the-badge&logo=bugcrowd&color=000000" />
-      <img src="https://img.shields.io/badge/XSS-A6120D?style=for-the-badge&logo=databricks&color=000000" />
-      <img src="https://img.shields.io/badge/CSRF-4A90E2?style=for-the-badge&logo=cloudflare&color=000000" />
-      <img src="https://img.shields.io/badge/SSRF-0A9396?style=for-the-badge&logo=nginx&color=000000" />
-      <img src="https://img.shields.io/badge/SSTI-8A00D4?style=for-the-badge&logo=jinja&color=000000" />
-      <img src="https://img.shields.io/badge/IDOR-FF006E?style=for-the-badge&logo=auth0&color=000000" />
-      <img src="https://img.shields.io/badge/Misconfigurations-FFD500?style=for-the-badge&logo=hackaday&color=000000" />
-      <img src="https://img.shields.io/badge/Recon_Automation-00F5D4?style=for-the-badge&logo=python&color=000000" />
+<table align="center">
+  <tr>
+    <th>Role</th>
+    <th>Organization</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td><b>SOC Analyst Intern</b></td>
+    <td>CyArt Security</td>
+    <td>Aug 2025 — Feb 2026</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      • Triaged 400–500 daily SIEM alerts across Splunk & Wazuh, reducing false positives by ~30% via tuned Sigma rules<br/>
+      • Authored detection content mapped to MITRE ATT&CK (T1110, T1566, T1059) and led IR playbook iteration<br/>
+      • Performed threat hunting on endpoint telemetry (Sysmon, EDR) to surface lateral movement & persistence TTPs
+    </td>
+  </tr>
+  <tr>
+    <td><b>Independent Security Researcher</b></td>
+    <td>Bug Bounty Programs</td>
+    <td>Jan 2025 — Aug 2025</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      • Disclosed 50+ vulnerabilities — IDOR, SSRF, XSS, broken access control, business-logic flaws<br/>
+      • Built custom recon and fuzzing tooling in Python<br/>
+      • Translated offensive findings into Wazuh rules and Splunk searches
+    </td>
+  </tr>
+</table>
 
-  </div>
-</div>
-<h2 align="center">🧰 Networking & Tools</h2>
+---
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" />
-      <img src="https://img.shields.io/badge/Zeek-FF8800?style=for-the-badge&logo=zeek&color=000000" />
-      <img src="https://img.shields.io/badge/Scapy-00C4B3?style=for-the-badge&logo=python&color=000000" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" />
-      <img src="https://img.shields.io/badge/Virtualization-9146FF?style=for-the-badge&logo=vmware&color=000000" />
-      <img src="https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&logo=python&color=000000" />
+<h2 align="center">🔥 Skills & Tools</h2>
 
-  </div>
-</div>
-<h2 align="center">🏆 Certifications</h2>
+<h3 align="center">🛡️ SIEM & Detection</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Wazuh-7325F2?style=for-the-badge&logo=wazuh&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Sigma_Rules-A855F7?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/SPL-FF6633?style=for-the-badge&color=0d0d1a" />
+</p>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 25px; margin-bottom: 20px;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <img src="https://img.shields.io/badge/Ethical_Hacking_Training-22F700?style=for-the-badge&logo=kalilinux&logoColor=22F700&color=000000" />
-      <img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst-22F700?style=for-the-badge&logo=ibm&logoColor=22F700&color=000000" />
-      <img src="https://img.shields.io/badge/TATA_Forage_Cybersecurity_Simulation-22F700?style=for-the-badge&logo=hackthebox&logoColor=22F700&color=000000" />
-  </div>
-</div>
-<h2 align="center">📊 GitHub Stats</h2>
+<h3 align="center">🔍 Incident Response & Threat Hunting</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Triage-FF0000?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Containment-FF4500?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Forensics-00BFFF?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Threat_Hunting-00FF9F?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/IR_Playbooks-FFA500?style=for-the-badge&color=0d0d1a" />
+</p>
+
+<h3 align="center">🌐 Endpoint & Network</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/EDR-8A2BE2?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Sysmon-4169E1?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Zeek-FF8800?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Suricata-F15A24?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&color=0d0d1a" />
+</p>
+
+<h3 align="center">📐 Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Cyber_Kill_Chain-FF4500?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge&color=0d0d1a" />
+</p>
+
+<h3 align="center">🗡️ Vulnerability Research</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Nuclei-7B68EE?style=for-the-badge&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-FF8800?style=for-the-badge&logo=bugcrowd&color=0d0d1a" />
+</p>
+
+<h3 align="center">💻 Languages & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=0d0d1a" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍯 HoneyLearn</h3>
+      <p align="center"><b>AI-Powered Honeypot Platform</b></p>
+      <p>Production-grade honeypot using Python (FastAPI) with ML-based attack classification, MITRE ATT&CK mapping, honeytokens, and threat intel export in JSON/CSV/STIX formats.</p>
+      <p align="center">
+        <a href="https://github.com/Vaibhav300503/HoneyLearn"><img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&color=0d0d1a" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/MITRE-FF0000?style=flat-square&color=1a1a2e" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔒 Enterprise SOC Platform</h3>
+      <p align="center"><b>Real-time Log Collection & FIM</b></p>
+      <p>Comprehensive security monitoring with multi-platform log collection, File Integrity Monitoring with canary-file ransomware detection, and MITRE ATT&CK auto-classification.</p>
+      <p align="center">
+        <a href="https://github.com/Vaibhav300503/Agent"><img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&color=0d0d1a" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&color=1a1a2e" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 Network Scanner</h3>
+      <p align="center"><b>Multi-Threaded Recon Tool</b></p>
+      <p>Python-based offensive security tool with ARP host discovery, stealth TCP SYN scanning, service identification, banner grabbing, and OS fingerprinting.</p>
+      <p align="center">
+        <a href="https://github.com/Vaibhav300503/Custom_Network_Scanner"><img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&color=0d0d1a" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Scapy-00C4B3?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Threading-FFD500?style=flat-square&color=1a1a2e" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 SOC Dashboard</h3>
+      <p align="center"><b>Centralized SOC Monitoring Interface</b></p>
+      <p>Finance-grade glassmorphism UI for real-time SIEM data visualization with deep visibility into log streams, alert frequencies, and endpoint health.</p>
+      <p align="center">
+        <a href="https://github.com/Vaibhav300503/SOC-DASHBOARD"><img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&color=0d0d1a" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&color=1a1a2e" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">👥 Crowd Management Digital Twin</h3>
+      <p align="center"><b>🏆 Hackathon-Winning Project — SunHacks 2025</b></p>
+      <p align="center">AI-powered system for predicting and mitigating crowd risks at mega-events using YOLO models for real-time detection and a Digital Twin engine to trigger proactive alerts.</p>
+      <p align="center">
+        <a href="https://github.com/Vaibhav300503/Crowd_Management_Digital_Twin"><img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&color=0d0d1a" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&color=1a1a2e" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&color=1a1a2e" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<table align="center">
+  <tr><td>🥇</td><td><b>SunHacks 2025 — Award Recipient</b></td><td>AI-powered Crowd Management Digital Twin at Sandip University, Nashik</td></tr>
+  <tr><td>🥇</td><td><b>Spardha 25 — Winner</b></td><td>Award winner at VAMNICOM, Pune</td></tr>
+  <tr><td>🐛</td><td><b>50+ Bug Bounty Findings</b></td><td>XSS, SSRF, IDOR, broken access control — responsibly disclosed</td></tr>
+  <tr><td>🎮</td><td><b>TryHackMe — Top 7% Global</b></td><td>Level 8 [HACKER] · 56 rooms · 12 badges · 7,266+ points</td></tr>
+  <tr><td>💻</td><td><b>HackChrono 2025 — Selected</b></td><td>Chandigarh University hackathon</td></tr>
+  <tr><td>💻</td><td><b>Hackatron 2025 — Selected</b></td><td>ABV-IIITM, Gwalior national-level hackathon</td></tr>
+  <tr><td>💻</td><td><b>Xcelerate 3.0 — Selected</b></td><td>Shiv Nadar University, Greater Noida hackathon</td></tr>
+</table>
+
+---
+
+<h2 align="center">🏅 Certifications</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM_Cybersecurity_Professional_Analyst-A855F7?style=for-the-badge&logo=ibm&logoColor=A855F7&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Cybersecurity_with_AI-A855F7?style=for-the-badge&logo=openai&logoColor=A855F7&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Certified_Ethical_Hacker_(NSDC)-A855F7?style=for-the-badge&logo=kalilinux&logoColor=A855F7&color=0d0d1a" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mastering_Network_Security-A855F7?style=for-the-badge&logo=udemy&logoColor=A855F7&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Blue_Team_&_Network_Security-A855F7?style=for-the-badge&logo=udemy&logoColor=A855F7&color=0d0d1a" />
+  <img src="https://img.shields.io/badge/Red_Team_Mastery-A855F7?style=for-the-badge&logo=udemy&logoColor=A855F7&color=0d0d1a" />
+</p>
+
+---
+
+<h2 align="center">🎯 MITRE ATT&CK Coverage</h2>
+
+<p align="center"><i>Techniques I've built detections for, hunted, or researched</i></p>
+
+<table align="center">
+  <tr>
+    <th>Technique</th>
+    <th>Tactic</th>
+    <th>Experience</th>
+  </tr>
+  <tr><td><code>T1110</code> Brute Force</td><td>Credential Access</td><td>SSH/RDP password spraying — Wazuh + Sigma</td></tr>
+  <tr><td><code>T1566</code> Phishing</td><td>Initial Access</td><td>Email-header anomaly detections & URL detonation</td></tr>
+  <tr><td><code>T1059</code> Command & Scripting</td><td>Execution</td><td>PowerShell/Bash abuse hunts via Sysmon + EDR</td></tr>
+  <tr><td><code>T1078</code> Valid Accounts</td><td>Persistence</td><td>Impossible-travel & off-hours login detections</td></tr>
+  <tr><td><code>T1003</code> OS Credential Dumping</td><td>Credential Access</td><td>LSASS access detections via EDR + Sigma</td></tr>
+  <tr><td><code>T1071</code> App Layer Protocol</td><td>Command & Control</td><td>Beaconing detection via Zeek + JA3</td></tr>
+  <tr><td><code>T1021</code> Remote Services</td><td>Lateral Movement</td><td>SMB/WinRM lateral-movement hunts</td></tr>
+  <tr><td><code>T1486</code> Data Encrypted for Impact</td><td>Impact</td><td>Ransomware canary-file + entropy detections</td></tr>
+  <tr><td><code>T1041</code> Exfil Over C2</td><td>Exfiltration</td><td>Outbound volume + DNS-tunnel detections</td></tr>
+</table>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
 
 <table align="center">
   <tr>
@@ -146,21 +313,29 @@ Currently working as a **SOC Analyst Intern at CyArt**, while actively hunting b
   </tr>
 </table>
 
+---
+
 <h2 align="center">🔗 Connect With Me</h2>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 25px; margin-bottom: 20px;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href="mailto:vaibhavdeepsingh83@gmail.com">
-      <img src="https://img.shields.io/badge/Email-22F700?style=for-the-badge&logo=gmail&logoColor=22F700&color=000000" />
-    </a>
-    <a href="https://www.linkedin.com/in/vaibhav-deep-singh-2047a2302">
-      <img src="https://img.shields.io/badge/LinkedIn-22F700?style=for-the-badge&logo=linkedin&logoColor=22F700&color=000000" />
-    </a>
-    <a href="https://github.com/Vaibhav300503">
-      <img src="https://img.shields.io/badge/GitHub-22F700?style=for-the-badge&logo=github&logoColor=22F700&color=000000" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="mailto:vaibhavdeepsingh83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=A855F7&color=0d0d1a" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-deep-singh-2047a2302">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=A855F7&color=0d0d1a" />
+  </a>
+  <a href="https://github.com/Vaibhav300503">
+    <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=A855F7&color=0d0d1a" />
+  </a>
+  <a href="https://tryhackme.com/p/vaibhavdeepsingh">
+    <img src="https://img.shields.io/badge/TryHackMe-A855F7?style=for-the-badge&logo=tryhackme&logoColor=A855F7&color=0d0d1a" />
+  </a>
+  <a href="https://Vaibhav300503.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=A855F7&color=0d0d1a" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <b><i>"Secure🔒. Detect🕵️‍♂️. Hunt🎯. Break💥. Learn📚. Repeat🔁."</i></b>
