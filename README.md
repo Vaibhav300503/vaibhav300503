@@ -236,7 +236,7 @@ I'm a **SOC Analyst & Detection Engineer** focused on building high-signal alert
   <tr><td>🥇</td><td><b>SunHacks 2025 — Award Recipient</b></td><td>AI-powered Crowd Management Digital Twin at Sandip University, Nashik</td></tr>
   <tr><td>🥇</td><td><b>Spardha 25 — Winner</b></td><td>Award winner at VAMNICOM, Pune</td></tr>
   <tr><td>🐛</td><td><b>50+ Bug Bounty Findings</b></td><td>XSS, SSRF, IDOR, broken access control — responsibly disclosed</td></tr>
-  <tr><td>🎮</td><td><b>TryHackMe — Top 7% Global</b></td><td>Level 8 [HACKER] · 56 rooms · 12 badges · 7,266+ points</td></tr>
+  <tr><td>🎮</td><td><b>TryHackMe — Top 4% Global</b></td><td>Level 10 [WIZARD] · 100+ rooms · 15 badges · 13000+ points</td></tr>
   <tr><td>💻</td><td><b>HackChrono 2025 — Selected</b></td><td>Chandigarh University hackathon</td></tr>
   <tr><td>💻</td><td><b>Hackatron 2025 — Selected</b></td><td>ABV-IIITM, Gwalior national-level hackathon</td></tr>
   <tr><td>💻</td><td><b>Xcelerate 3.0 — Selected</b></td><td>Shiv Nadar University, Greater Noida hackathon</td></tr>
