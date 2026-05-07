@@ -34,7 +34,7 @@ I'm a **SOC Analyst & Detection Engineer** focused on building high-signal alert
 ⚡ Focus: SIEM, Detection Engineering, Threat Hunting, Incident Response
 🐍 Python automation for recon, detection & security tooling
 🏆 Hackathon Winner — SunHacks 2025, Spardha 25
-🎮 TryHackMe — Top 4% Global | Level 10 [HACKER]
+🎮 TryHackMe — Top 2% Global | Level 10 [WIZARD] | 68,519 Points | 97 Rooms | 15 Badges
 🎓 B.Sc. Computer Science — Sage University, Indore (CGPA: 8.0)
 📍 India · Open to Relocation
 ```
@@ -47,7 +47,7 @@ I'm a **SOC Analyst & Detection Engineer** focused on building high-signal alert
   <img src="https://img.shields.io/badge/Vulns_Disclosed-50+-A855F7?style=for-the-badge&color=1a1a2e" />
   <img src="https://img.shields.io/badge/Daily_Alerts_Triaged-500+-A855F7?style=for-the-badge&color=1a1a2e" />
   <img src="https://img.shields.io/badge/False_Positive_Reduction-30%25-A855F7?style=for-the-badge&color=1a1a2e" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top_7%25-A855F7?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-A855F7?style=for-the-badge&color=1a1a2e" />
 </p>
 
 ---
